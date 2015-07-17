@@ -14,7 +14,7 @@ if (!defined('ABSPATH')) exit; // Exit if accessed directly
  * Date: 7/17/2015
  * Time: 1:59 AM
  */
-require('class/EPKADV.php');
+require('class/class.epkadv.php');
 
 /**
  * Main function to get things running
